@@ -18,12 +18,12 @@ The project structure is organized as follows:
 One way (numerical display):
 - VHDL_MOORE_FSM_Sequence_Detector.vhd, The main VHDL file for the sequence detector design.
 - VHDL_MOORE_FSM_Sequence_Detector.do, A DO file for simulating the sequence detector.
-- FSM_Sequence_Detector.png, waveform of our detector.
+- FSM_Sequence_Detector.png, image of the FSM.
 
 Second way (word display):
 - VHDL_MOORE_FSM_Sequence_Detector.vhd, The main VHDL file for the sequence detector design.
 - VHDL_MOORE_FSM_Sequence_Detector.do, A DO file for simulating the sequence detector.
-- FSM_Sequence_Detector.png, waveform of our detector.
+- FSM_Sequence_Detector.png, image of the FSM.
 
 4. Finite State Machine
 
