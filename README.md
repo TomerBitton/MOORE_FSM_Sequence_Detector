@@ -25,13 +25,13 @@ Second way (word display):
 - VHDL_MOORE_FSM_Sequence_Detector.do, A DO file for simulating the sequence detector.
 - FSM_Sequence_Detector.png, waveform of our detector.
 
-5. Finite State Machine
+4. Finite State Machine
 
 The Moore FSM in this project is designed to detect the sequence "1001." It consists of multiple states, each representing a part of the sequence. The transitions between states are determined by the input sequence, and the output is based on the current state.
 
 The FSM is preconfigured to recognize the sequence "1001," and you can see the state transitions in the VHDL_MOORE_FSM_Sequence_Detector file. You can modify the state transitions and output behavior to detect different sequences or perform specific actions when a sequence is detected.
 
-6. Simulation
+5. Simulation
 
 To simulate the sequence detector:
 - Copy the VHDL_MOORE_FSM_Sequence_Detector.vhd and VHDL_MOORE_FSM_Sequence_Detector.do files into your project directory.
